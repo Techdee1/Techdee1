@@ -33,7 +33,7 @@ Currently building AI startups and always open to collaborate on exciting projec
 
 ## 🛠️ Featured Projects
 
-### 🎤 [Tawk - Voice Cloning System](https://github.com/Techdee/Tawk)
+### 🎤 [Tawk - Voice Cloning System](https://github.com/Techdee1/Tawk)
 > **Voice cloning tuned for Nigerian accents**
 
 Built a voice cloning pipeline that captures Nigerian accents with just ~15 seconds of audio. Developed using FastAPI, with proper word-to-audio timing for coherent, natural speech.
@@ -43,7 +43,7 @@ Built a voice cloning pipeline that captures Nigerian accents with just ~15 seco
 
 ---
 
-### 🏥 [MedAssist - Multilingual AI Healthcare Agent](https://github.com/yourusername/medassist)
+### 🏥 [MedAssist - Multilingual AI Healthcare Agent](https://github.com/Techdee/MedAssist)
 > **Automating patient intake in English, Yoruba, Hausa, and Igbo**
 
 An AI agent that automates patient intake, schedules appointments, sends reminders, and routes information to clinic dashboards. Works via WhatsApp — no new app required.
@@ -122,18 +122,23 @@ AI-powered web solution providing basic health guidance in multiple Nigerian lan
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Programming:** Python, C, C++, MATLAB
+- **Programming:** Python, C, C++, TypeScript
 - **Frameworks:** FastAPI, PyTorch
+- **Cloud & DevOps:** Azure, Git/GitHub, Docker
 - **Hardware:** Electronics Design, Circuit Analysis, PCB Design, Microcontrollers
 - **Design:** 3D Design and Prototyping
 
 ### **Domains**
+- 🤖 **Artificial   Intelligence (AI)** | Machine Learning | Agentic AI | Computer Vision | Deep Learning | Generative AI | Data Science
 - 🔌 **Embedded Systems** | Hardware Engineering | Electronics Engineering
-- 🤖 **Machine Learning** | Computer Vision | Deep Learning
 - 💻 **Software Engineering**
 
 ### **Soft Skills**
@@ -200,15 +205,13 @@ Manage the digital systems and platforms that support the club’s work.
 I'm always open to collaborating on exciting projects in **AI, embedded systems, startups, or community tech initiatives**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akeem-jr-odebiyi)
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [yourwebsite.com]
+- 📧 Email: [damilareodebiyi3@gmail.com]
+- 🌐 Portfolio: [coming soon...]
 
 ---
 
 <div align="center">
 
 ### 💭 *"Building with purpose. Creating real impact."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=techdee1&color=brightgreen&style=for-the-badge)
 
 </div>
