@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akeem-jr-odebiyi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techdee1)
 
-**Electrical & Electronics Engineering Student | AI Innovator | Building Tech That Solves Real Problems**
+**AI Innovator | Building Tech That Solves Real Problems | Engineering Student**
 
 </div>
 
@@ -15,7 +15,7 @@
 
 I'm a young innovator passionate about building practical systems that solve real-world problems, especially at the intersection of **AI, embedded systems, and everyday life**.
 
-I've built innovative systems using **AI agents, computer vision, generative AI, and machine learning** to turn ideas into solutions people can actually use — focusing on **real impact, not just demos**.
+I've built innovative systems using **AI agents, computer vision, generative AI, and machine learning** to turn ideas into solutions people can actually use, focusing on **real impact, not just demos**.
 
 Currently building AI startups and always open to collaborate on exciting projects in **tech, startups, or community initiatives**.
 
