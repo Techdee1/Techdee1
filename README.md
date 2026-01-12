@@ -1,4 +1,4 @@
-# Hi there, I'm Akeem Jr 👋
+# Hi! I'm Akeem Jr 👋
 
 <div align="center">
   
