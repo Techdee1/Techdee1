@@ -136,8 +136,9 @@ AI-powered web solution providing basic health guidance in multiple Nigerian lan
 
 ### **Domains**
 - 🤖 **Artificial   Intelligence (AI)** | Machine Learning | Agentic AI | Computer Vision | Deep Learning | Generative AI | Data Science
+- - 💻 **Software Engineering**
 - 🔌 **Embedded Systems** | Hardware Engineering | Electronics Engineering
-- 💻 **Software Engineering**
+
 
 ### **Soft Skills**
 - 🤝 Teamwork & Collaboration
