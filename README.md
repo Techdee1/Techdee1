@@ -131,7 +131,7 @@ AI-powered web solution providing basic health guidance in multiple Nigerian lan
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Programming:** Python, C, C++, TypeScript
-- **Frameworks:** FastAPI, PyTorch, Tensorflow, Flask, OpenCV
+- **Frameworks:** FastAPI, PyTorch, Tensorflow, Flask, OpenCV, Numpy
 - **Cloud & DevOps:** Azure, Git/GitHub, Docker
 
 ### **Domains**
