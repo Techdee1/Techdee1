@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a young innovator passionate about building practical systems that solve real-world problems, especially at the intersection of **AI, embedded systems, and everyday life**.
+I'm an innovator passionate about building practical systems that solve real-world problems, especially at the intersection of **AI, embedded systems, and everyday life**.
 
 I've built innovative systems using **AI agents, computer vision, generative AI, and machine learning** to turn ideas into solutions people can actually use, focusing on **real impact, not just demos**.
 
