@@ -38,6 +38,8 @@ Currently building AI startups and always open to collaborate on exciting projec
 
 Built a voice cloning pipeline that captures Nigerian accents with just ~15 seconds of audio. Developed using FastAPI, with proper word-to-audio timing for coherent, natural speech.
 
+https://github.com/Techdee1/Techdee1/assets/tawk%20demo.mp4
+
 **Tech Stack:** FastAPI, TTS Models, Audio Processing  
 **Key Achievement:** Single-sample voice cloning with proper temporal alignment
 
@@ -59,6 +61,8 @@ An AI agent that automates patient intake, schedules appointments, sends reminde
 
 AI-powered flood prediction combining satellite rainfall data (CHIRPS), ERA5 climate data, and crowdsourced reports to deliver localized, actionable alerts hours before flooding occurs.
 
+https://github.com/Techdee1/Techdee1/assets/FloodGuard%20Nigeria%20Alert%20System%20MVP%20-%20Google%20Chrome%202025-12-13%2014-36-47.mp4
+
 **Tech Stack:** Machine Learning, Python, CHIRPS, ERA5 Climate Data  
 **Impact:** Predicts flood probability 6+ hours ahead for affected communities  
 **Dataset:** 2010–2024 Nigerian flood and climate data
@@ -69,6 +73,8 @@ AI-powered flood prediction combining satellite rainfall data (CHIRPS), ERA5 cli
 > **Predicting fiscal crises before they happen**
 
 AI platform predicting sovereign debt distress using 60+ years of African fiscal data. Ensemble ML approach achieving 93.4% AUC-ROC in identifying debt distress risk.
+
+![DebtSage Prediction](debstsage_prediction.png)
 
 **Tech Stack:** XGBoost, Random Forest, Logistic Regression, Python  
 **Data:** 14 African countries, 41 engineered fiscal features  
@@ -81,6 +87,8 @@ AI platform predicting sovereign debt distress using 60+ years of African fiscal
 
 Real-time traffic analysis detecting and classifying Lagos vehicles: okada, danfo, BRT, keke napep, trucks, and private cars. Tracks vehicles across frames with unique counting.
 
+https://github.com/Techdee1/Techdee1/assets/lagos%20traffic%20system.mp4
+
 **Tech Stack:** Computer Vision, YOLOv8, OpenCV, Python  
 **Features:** Real-time detection, vehicle tracking, traffic metrics dashboard
 
@@ -90,6 +98,8 @@ Real-time traffic analysis detecting and classifying Lagos vehicles: okada, danf
 > **AI that watches, learns, and alerts in real-time**
 
 Security system with real-time person detection, behavioral pattern learning, tamper detection, zone-based monitoring, and automatic event recording.
+
+https://github.com/Techdee1/Techdee1/assets/security_surveillance%20vid%201.mp4
 
 **Tech Stack:** YOLOv8n, OpenCV, FastAPI, WebSockets, SQLite  
 **Features:** Privacy-first, local processing, low latency, live dashboard
@@ -110,6 +120,8 @@ Helps farmers detect crop diseases through SMS and lightweight web app, accessib
 > **Reliable health guidance in Nigerian languages**
 
 AI-powered web solution providing basic health guidance in multiple Nigerian languages with backend AI integration.
+
+https://github.com/Techdee1/Techdee1/assets/Healthmate%20AI%20video%20demo.mp4
 
 **Tech Stack:** Flask, Azure, OpenAI API, REST APIs  
 **Languages:** English + Nigerian languages
