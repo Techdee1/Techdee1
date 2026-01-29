@@ -83,8 +83,6 @@ AI platform predicting sovereign debt distress using 60+ years of African fiscal
 
 Real-time traffic analysis detecting and classifying Lagos vehicles: okada, danfo, BRT, keke napep, trucks, and private cars. Tracks vehicles across frames with unique counting.
 
-https://github.com/Techdee1/Techdee1/assets/lagos%20traffic%20system.mp4
-
 **Tech Stack:** Computer Vision, YOLOv8, OpenCV, Python  
 **Features:** Real-time detection, vehicle tracking, traffic metrics dashboard
 
