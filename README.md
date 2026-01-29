@@ -93,8 +93,6 @@ Real-time traffic analysis detecting and classifying Lagos vehicles: okada, danf
 
 Security system with real-time person detection, behavioral pattern learning, tamper detection, zone-based monitoring, and automatic event recording.
 
-https://github.com/Techdee1/Techdee1/assets/security_surveillance%20vid%201.mp4
-
 **Tech Stack:** YOLOv8n, OpenCV, FastAPI, WebSockets, SQLite  
 **Features:** Privacy-first, local processing, low latency, live dashboard
 
