@@ -59,8 +59,6 @@ An AI agent that automates patient intake, schedules appointments, sends reminde
 
 AI-powered flood prediction combining satellite rainfall data (CHIRPS), ERA5 climate data, and crowdsourced reports to deliver localized, actionable alerts hours before flooding occurs.
 
-https://github.com/Techdee1/Techdee1/assets/FloodGuard%20Nigeria%20Alert%20System%20MVP%20-%20Google%20Chrome%202025-12-13%2014-36-47.mp4
-
 **Tech Stack:** Machine Learning, Python, CHIRPS, ERA5 Climate Data  
 **Impact:** Predicts flood probability 6+ hours ahead for affected communities  
 **Dataset:** 2010–2024 Nigerian flood and climate data
