@@ -38,8 +38,6 @@ Currently building AI startups and always open to collaborate on exciting projec
 
 Built a voice cloning pipeline that captures Nigerian accents with just ~15 seconds of audio. Developed using FastAPI, with proper word-to-audio timing for coherent, natural speech.
 
-https://github.com/Techdee1/Techdee1/assets/tawk%20demo.mp4
-
 **Tech Stack:** FastAPI, TTS Models, Audio Processing  
 **Key Achievement:** Single-sample voice cloning with proper temporal alignment
 
