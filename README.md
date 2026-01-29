@@ -113,8 +113,6 @@ Helps farmers detect crop diseases through SMS and lightweight web app, accessib
 
 AI-powered web solution providing basic health guidance in multiple Nigerian languages with backend AI integration.
 
-https://github.com/Techdee1/Techdee1/assets/Healthmate%20AI%20video%20demo.mp4
-
 **Tech Stack:** Flask, Azure, OpenAI API, REST APIs  
 **Languages:** English + Nigerian languages
 
