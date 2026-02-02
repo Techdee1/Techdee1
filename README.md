@@ -25,7 +25,6 @@ Currently building AI startups and always open to collaborate on exciting projec
 ## 💡 What I'm Building
 
 ### 🎯 Current Focus
-- 🤖 Building an **Agentic AI startup**
 - ⚡ Building TechPulze
 - 🌍 Creating AI solutions tailored for the **Nigerian/African context**
 - 🔧 Developing systems that bridge the gap between **cutting-edge AI and practical accessibility**
